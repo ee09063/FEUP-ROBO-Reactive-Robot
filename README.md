@@ -1,5 +1,9 @@
 # jpmsc_reactive_robot
 
+Author: João Pedro Milano Silva Cardoso
+
+Project developed for the ROBO curricular unit, MIEIC, FEUP.
+
 Wall following eactive robot using ROS and STDR_Simulator.
 
 ### Installation intructions:
